@@ -2,7 +2,7 @@
 
 Various LuaU projects I've worked on either as a solo developer, or with other contributors.<br />
 
-> ## Disclaimer
+## Disclaimer
 > [!WARNING]
 > This project is provided for development, debugging, archival, and research purposes within the Roblox platform.
 > 
