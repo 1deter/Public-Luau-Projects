@@ -1,6 +1,6 @@
 # Public LuaU Projects
 
-Various LuaU projects I've worked on either as a solo developer, or with other contributors.<br />
+Various Luau projects I've worked on either as a solo developer, or with other contributors.<br />
 
 ## Disclaimer
 > [!WARNING]
